@@ -10,8 +10,7 @@ export function App() {
     {
       id: 1,
       author: {
-        avatarUrl:
-          "https://xesque.rocketseat.dev/users/avatar/profile-5c717960-17b5-44dd-91c4-3c16e950bc6a-1655937751065.jpg",
+        avatarUrl: "https://github.com/schayene.png",
         name: "Schayene S. Royer",
         role: "Web Developer",
       },
