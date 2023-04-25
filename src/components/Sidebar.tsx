@@ -11,7 +11,7 @@ export function Sidebar() {
       <img className={styles.cover} src={coverImage} />
 
       <div className={styles.profile}>
-        <Avatar src="https://xesque.rocketseat.dev/users/avatar/profile-5c717960-17b5-44dd-91c4-3c16e950bc6a-1655937751065.jpg" />
+        <Avatar src="https://github.com/schayene.png" />
 
         <strong>Schayene S. Royer</strong>
         <span>Web Developer</span>
